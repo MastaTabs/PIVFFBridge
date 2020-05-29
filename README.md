@@ -23,5 +23,5 @@ The contact points for information about manufactured Products (see section 4.2)
 
 Any modifications made by Licensees (see section 3.4.b) shall be recorded in file CHANGES.md.
 
-The Documentation Location of the original project is https://github.com/MastaTabs/PIVFliFiattach.
+The Documentation Location of the original project is https://github.com/MastaTabs/PIVFFBridge.
 
