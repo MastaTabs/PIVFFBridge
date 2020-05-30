@@ -1,0 +1,38 @@
+"Source:","/home/masta/Desktop/projects/PIV_FFBridge/FFBridge.sch"
+"Date:","Sa 30 Mai 2020 18:23:59 CEST"
+"Tool:","Eeschema 5.1.5"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","14"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","220n","Device:C_Small","Capacitors_SMD:C_0805_HandSoldering","~"
+"","","C2","220n","Device:C_Small","Capacitors_SMD:C_0805_HandSoldering","~"
+"","","J1","Conn_02x13_Odd_Even","connect:Conn_02x13_Odd_Even","Pin_Headers:Pin_Header_Straight_2x13_Pitch2.54mm","~"
+"","","J2","Conn_02x08_Odd_Even","connect:Conn_02x08_Odd_Even","Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm","~"
+"","","J3","Conn_01x04","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"","","J4","Conn_02x13_Odd_Even","connect:Conn_02x13_Odd_Even","Pin_Headers:Pin_Header_Straight_2x13_Pitch2.54mm","~"
+"","","J5","Conn_02x08_Odd_Even","connect:Conn_02x08_Odd_Even","Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm","~"
+"","","J6","Conn_01x04","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"","","J7","CD-Output","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"","","J8","CD-Input","connect:Conn_01x04","Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm","~"
+"","","J9","PIV-Output","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"","","JP6","Conn_01x02","connect:Conn_01x02","Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm","~"
+"","","R1","4k7","Device:R_Small","Resistors_SMD:R_0805_HandSoldering","~"
+"","","R2","4k7","Device:R_Small","Resistors_SMD:R_0805_HandSoldering","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","2","C1, C2","220n","Device:C_Small","Capacitors_SMD:C_0805_HandSoldering","~"
+"2","2","J1, J4","Conn_02x13_Odd_Even","connect:Conn_02x13_Odd_Even","Pin_Headers:Pin_Header_Straight_2x13_Pitch2.54mm","~"
+"3","2","J2, J5","Conn_02x08_Odd_Even","connect:Conn_02x08_Odd_Even","Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm","~"
+"4","2","J3, J6","Conn_01x04","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"5","1","J7","CD-Output","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"6","1","J8","CD-Input","connect:Conn_01x04","Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm","~"
+"7","1","J9","PIV-Output","connect:Conn_01x04","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","~"
+"8","1","JP6","Conn_01x02","connect:Conn_01x02","Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm","~"
+"9","2","R1, R2","4k7","Device:R_Small","Resistors_SMD:R_0805_HandSoldering","~"
