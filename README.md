@@ -3,9 +3,9 @@
 Bought a snapped off PicassoIV and don't want to use cables to attach the video slot connector?
 Then PIV FFBridge comes to the rescue.
 It also integrates the functionality of the CD-Mix that not many people know it exists.
-This way you can listen to CD and Amiga audio through the PIV audio output at the same time.
+This way, you can listen to CD and Amiga audio through the PIV audio output at the same time.
 
-The design isn't proven yet but was created from the original schematics and PCB layout.
+The design is proven and working good. It was created from the original schematics and PCB layout.
 
 ![Board Image front](/pix/FFBridge1.png)
 ![Board Image back](/pix/FFBridge2.png)
